@@ -19,4 +19,5 @@ def start():
 
 @game.route('/move', methods=['POST'])
 def move():
+    # TODO
     return "move"
